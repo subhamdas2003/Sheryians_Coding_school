@@ -12,5 +12,3 @@ console.log(obj.age)
 
 console.log(obj['pin'])
 console.log(obj['first_name'])
-
-console.log(__dirname)
