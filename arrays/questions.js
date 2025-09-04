@@ -93,7 +93,7 @@ let all_countries=["IND", ...countries];
 
 console.log(all_countries)
 
-//clone the array
+//clone the array using spread operator
 
 let orgArr=[4,6,9,0,2]
 let cloneArr=[...orgArr]
